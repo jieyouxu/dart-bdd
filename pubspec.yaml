@@ -1,0 +1,11 @@
+name: bdd_test_style
+description: BDD name aliases for test.
+version: 1.0.0
+homepage: https://github.com/jieyouxu/dart-bdd
+author: 许杰友 Jieyou Xu (Joe) <https://github.com/jieyouxu/dart-bdd>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  test: ^1.0.0
